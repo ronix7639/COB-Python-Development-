@@ -1,0 +1,3 @@
+Hello there !
+This is a sample file to verify task-1 given by CodesonBytes.
+At CodesonBytes my role as an intern is "Python Developer".
